@@ -1,0 +1,1 @@
+web: gunicorn BioDash.app:app
